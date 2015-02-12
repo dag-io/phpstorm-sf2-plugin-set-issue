@@ -1,0 +1,3 @@
+demo:
+    path:     /
+    defaults: { _controller: AcmeDemoBundle:Demo:index }
