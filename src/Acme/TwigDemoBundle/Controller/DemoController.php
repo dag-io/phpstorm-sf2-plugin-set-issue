@@ -1,10 +1,10 @@
 <?php
 
-namespace Acme\DemoBundle\Controller;
+namespace Acme\TwigDemoBundle\Controller;
 
-use Acme\DemoBundle\Model\Category;
-use Acme\DemoBundle\Model\Comment;
-use Acme\DemoBundle\Model\Post;
+use Acme\TwigDemoBundle\Model\Category;
+use Acme\TwigDemoBundle\Model\Comment;
+use Acme\TwigDemoBundle\Model\Post;
 use Symfony\Bundle\FrameworkBundle\Controller\Controller;
 
 /**
@@ -36,7 +36,7 @@ class DemoController extends Controller
         ];
 
         return $this->render(
-            'AcmeDemoBundle:Demo:index.html.twig',
+            'AcmeTwigDemoBundle:Demo:index.html.twig',
             [
                 'categories' => $categories
             ]

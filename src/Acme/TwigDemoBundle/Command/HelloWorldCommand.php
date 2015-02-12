@@ -1,6 +1,6 @@
 <?php
 
-namespace Acme\DemoBundle\Command;
+namespace Acme\TwigDemoBundle\Command;
 
 use Symfony\Component\Console\Command\Command;
 use Symfony\Component\Console\Input\InputArgument;

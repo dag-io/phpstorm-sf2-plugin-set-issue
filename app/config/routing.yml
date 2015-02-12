@@ -1,2 +1,2 @@
 acme_bundle:
-    resource: "@AcmeDemoBundle/Resources/config/routing.yml"
+    resource: "@AcmeTwigDemoBundle/Resources/config/routing.yml"

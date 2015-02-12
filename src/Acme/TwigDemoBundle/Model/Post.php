@@ -1,5 +1,5 @@
 <?php
-namespace Acme\DemoBundle\Model;
+namespace Acme\TwigDemoBundle\Model;
 
 /**
  * Class Post

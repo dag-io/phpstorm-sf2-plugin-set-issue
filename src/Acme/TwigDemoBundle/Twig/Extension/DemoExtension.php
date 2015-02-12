@@ -1,6 +1,6 @@
 <?php
 
-namespace Acme\DemoBundle\Twig\Extension;
+namespace Acme\TwigDemoBundle\Twig\Extension;
 
 use CG\Core\ClassUtils;
 
